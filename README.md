@@ -1,3 +1,5 @@
 # React / Next Experimentation and learning from,
-- https://react.dev/learn/tutorial-tic-tac-toe
+
+- Learning & Experiments.
 - https://nextjs.org/docs
+- https://www.youtube.com/watch?v=ZVnjOPwW4ZA
