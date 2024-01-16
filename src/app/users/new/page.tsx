@@ -1,6 +1,13 @@
 import Link from "next/link";
 import React from "react";
 
+export async function generateMetadata() {
+  // can get data from apis too.
+  return {
+    title: "New User",
+  };
+}
+
 const NewUsersPage = () => {
   return (
     <main>
